@@ -9,6 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
+![4x4mult](https://github.com/user-attachments/assets/0e4835ab-a4a5-4f88-8e4f-00ef02a235ea)
+
 A simple 4 bit x 4 bit array multiplier
 
 ## How to test
